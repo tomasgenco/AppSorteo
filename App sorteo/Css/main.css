@@ -1,0 +1,17 @@
+.lista{
+    list-style: none;
+}
+.container{
+    height: 100%;
+    min-height: 400px;
+    width: 50%;
+    border: 2px solid black;
+}
+
+.headContainer{
+    display: flex;
+    justify-content: center;
+}
+
+
+
